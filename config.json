@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsppdate",
+        "uuid": 5609247,
+        "checksum": "z2ezh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
